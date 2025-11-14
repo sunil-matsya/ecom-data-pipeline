@@ -1,0 +1,61 @@
+product_id,name,category,price
+P2001,Wireless Earbuds,Electronics,322.04
+P2002,Smartphone Gimbal,Electronics,358.45
+P2003,Portable Projector,Electronics,191.23
+P2004,Bluetooth Speaker,Electronics,266.23
+P2005,Noise-Canceling Headphones,Electronics,103.09
+P2006,4K Action Camera,Electronics,374.46
+P2007,Smart Home Hub,Electronics,351.61
+P2008,Drone Mini,Electronics,390.67
+P2009,Fitness Tracker,Electronics,332.77
+P2010,USB-C Power Bank,Electronics,357.50
+P2011,Air Fryer Pro,Home & Kitchen,33.06
+P2012,Ceramic Cookware Set,Home & Kitchen,264.38
+P2013,Espresso Maker,Home & Kitchen,132.96
+P2014,Robot Vacuum,Home & Kitchen,327.52
+P2015,Adjustable Standing Desk,Home & Kitchen,285.73
+P2016,LED Floor Lamp,Home & Kitchen,305.82
+P2017,Memory Foam Pillow,Home & Kitchen,288.49
+P2018,Cast Iron Skillet,Home & Kitchen,111.71
+P2019,Glass Food Containers,Home & Kitchen,280.90
+P2020,Smart Air Purifier,Home & Kitchen,60.13
+P2021,Vitamin C Serum,Beauty & Wellness,158.91
+P2022,Aromatherapy Diffuser,Beauty & Wellness,156.67
+P2023,Massage Gun,Beauty & Wellness,51.70
+P2024,Silk Sleep Mask,Beauty & Wellness,149.74
+P2025,Organic Hair Oil,Beauty & Wellness,90.95
+P2026,Facial Steamer,Beauty & Wellness,65.36
+P2027,Cooling Eye Gel,Beauty & Wellness,146.23
+P2028,Herbal Tea Sampler,Beauty & Wellness,52.55
+P2029,Bamboo Bath Caddy,Beauty & Wellness,18.90
+P2030,Weighted Blanket,Beauty & Wellness,46.87
+P2031,Insulated Water Bottle,Sports & Outdoors,95.50
+P2032,Trail Running Shoes,Sports & Outdoors,218.80
+P2033,Camping Hammock,Sports & Outdoors,242.38
+P2034,Hiking Daypack,Sports & Outdoors,84.20
+P2035,Adjustable Dumbbells,Sports & Outdoors,167.54
+P2036,Portable Solar Charger,Sports & Outdoors,111.93
+P2037,Yoga Mat Pro,Sports & Outdoors,245.66
+P2038,Pickleball Paddle Set,Sports & Outdoors,143.33
+P2039,Cycling Helmet,Sports & Outdoors,236.02
+P2040,LED Headlamp,Sports & Outdoors,46.53
+P2041,Minimalist Wristwatch,Fashion,214.02
+P2042,Vegan Leather Backpack,Fashion,54.07
+P2043,Performance Hoodie,Fashion,212.43
+P2044,Classic Denim Jacket,Fashion,71.62
+P2045,Commuter Sneakers,Fashion,39.90
+P2046,Merino Wool Scarf,Fashion,105.78
+P2047,Lightweight Parka,Fashion,165.17
+P2048,Travel Duffel Bag,Fashion,81.36
+P2049,Aviator Sunglasses,Fashion,140.45
+P2050,Slim Card Holder,Fashion,121.31
+P2051,Orthopedic Dog Bed,Pets,69.01
+P2052,Automatic Pet Feeder,Pets,97.34
+P2053,Cat Water Fountain,Pets,49.70
+P2054,Durable Chew Toy,Pets,116.90
+P2055,Pet Travel Carrier,Pets,12.25
+P2056,GPS Pet Tracker,Pets,148.99
+P2057,Natural Grooming Wipes,Pets,91.69
+P2058,Raised Pet Bowl,Pets,118.48
+P2059,Interactive Laser Toy,Pets,121.81
+P2060,Freeze-Dried Treats,Pets,111.25
